@@ -1,16 +1,18 @@
-### Hi there 👋
+### Olá Pessoal! 👋	:vulcan_salute:
 
-<!--
-**raphavidall/raphavidall** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Raphaela Vidal, sou estudante de **Análise e Desenvolvimento de Sistemas** e estudante de **Desenvolvimento Backend**. Iniciei meus estudos em programação em agosto de 2023, venho da área de contabilidade e tenho me dedicado bastante ao aprendizado de novas tecnologias. Espero poder contribuir com a comunidade dev e impactar positivamente a sociedade por meio da tecnologia.
 
-Here are some ideas to get you started:
+Para me encontrar:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/raphaela-vidal-89b93926a)
+
+
+Minha Habilidades:
+
+![Node.js](https://img.shields.io/npm/v/npm.svg?logo=nodedotjs )
+![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+
+Meu status:
+
+![Rapha Vidal](https://github-readme-stats.vercel.app/api?username=pretodev&show_icons=true&theme=radical)
+
