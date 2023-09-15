@@ -11,4 +11,4 @@ Minha Habilidades:
 
 ![Node.js](https://img.shields.io/npm/v/npm.svg?logo=nodedotjs )
 
-![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Javascript](https://img.shields.io/badge/logo-javascript-blue?logo=javascript )
