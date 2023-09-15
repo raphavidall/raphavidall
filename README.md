@@ -10,9 +10,5 @@ Para me encontrar:
 Minha Habilidades:
 
 ![Node.js](https://img.shields.io/npm/v/npm.svg?logo=nodedotjs )
+
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-
-Meu status:
-
-![Rapha Vidal](https://github-readme-stats.vercel.app/api?username=pretodev&show_icons=true&theme=radical)
-
