@@ -6,8 +6,8 @@
 - :computer: Tecnica em Contabilidade em Transição de Carreira
 - :mortar_board: Estudante de Análise e Desenvolvimento de Sistemas - Universidade de Fortaleza
 - :book: Curiosa por filosofia & ciências nas horas vagas
-- :dancer: :cook: Dança enquanto cozinha
-- :dog: :cat: Mãe de pets em tempo integral
+- :writing_hand: Iniciando um blog pessoal sobre transição de carreira para TI
+- :dog: :cat: Mãe de pets
 
 ### Redes Sociais
 
