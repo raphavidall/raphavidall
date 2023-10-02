@@ -12,7 +12,7 @@
 ### Redes Sociais
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/vidal_raphaela/)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin)](www.linkedin.com/in/raphaela-vidal)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/raphaela-vidal)
 
 ### Linguagens
 
