@@ -3,7 +3,7 @@
 ![](https://komarev.com/ghpvc/?username=raphavidall&color=000000)
 ![](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=raphavidall&countColorcountColor&countColor=%232979ff) ![GitHub followers](https://img.shields.io/github/followers/raphavidall?label=Follow&style=social)
 
-- :computer: Tecnica em Contabilidade e Desenvolvedora Backend
+- :computer: Desenvolvedora Backend e Tecnica em Contabilidade
 - :mortar_board: Estudante de Análise e Desenvolvimento de Sistemas - Universidade de Fortaleza
 - :book: Curiosa por filosofia & ciência nas horas vagas
 - :writing_hand: Iniciando um blog pessoal sobre transição de carreira em [Wordpress](https://transicaoparatech.wordpress.com/)
