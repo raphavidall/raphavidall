@@ -6,6 +6,7 @@
 - :computer: Desenvolvedora Backend e Tecnica em Contabilidade
 - :mortar_board: Estudante de Análise e Desenvolvimento de Sistemas - Universidade de Fortaleza
 - :book: Curiosa por filosofia & ciência nas horas vagas
+- :muscle: Luto pela Educação Positiva e Comunicação Não Violenta
 - :writing_hand: Iniciando um blog pessoal sobre transição de carreira em [Wordpress](https://transicaoparatech.wordpress.com/)
 - :dog: :cat: Mãe de pets
 
